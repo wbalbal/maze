@@ -1,0 +1,75 @@
+
+stoper.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+8
+  rotate: false
+  xy: 1, 45
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 78, 46
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 152, 46
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 215, 46
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 276, 46
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 337, 54
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 378, 55
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 417, 63
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+0
+  rotate: false
+  xy: 456, 65
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 417, 1
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1

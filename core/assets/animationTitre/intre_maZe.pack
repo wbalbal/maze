@@ -1,0 +1,54 @@
+
+intre_maZe.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+
+
+intre_maZe2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intre_maZe1
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+intre_maZe3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intre_maZe2
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+intre_maZe4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intre_maZe3
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+intre_maZe5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intre_maZe4
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1

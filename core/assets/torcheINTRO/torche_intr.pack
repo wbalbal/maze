@@ -1,0 +1,68 @@
+
+torche_intr.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire1
+  rotate: false
+  xy: 1, 133
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 1, 67
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 35, 133
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 1, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: false
+  xy: 35, 67
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 69, 133
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 35, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+fire8
+  rotate: false
+  xy: 69, 67
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+fire9
+  rotate: false
+  xy: 69, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,158 @@
+lightning.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spell_bluetop
+  rotate: false
+  xy: 1, 616
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 1
+spell_bluetop
+  rotate: false
+  xy: 201, 206
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 2
+spell_bluetop
+  rotate: false
+  xy: 301, 206
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 3
+spell_bluetop
+  rotate: false
+  xy: 401, 411
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 4
+spell_bluetop
+  rotate: false
+  xy: 501, 616
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 5
+spell_bluetop
+  rotate: false
+  xy: 301, 1
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 6
+spell_bluetop
+  rotate: false
+  xy: 401, 206
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 7
+spell_bluetop
+  rotate: false
+  xy: 501, 411
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 8
+spell_bluetop
+  rotate: false
+  xy: 601, 616
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 9
+spell_bluetop
+  rotate: false
+  xy: 1, 411
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 10
+spell_bluetop
+  rotate: false
+  xy: 101, 616
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 11
+spell_bluetop
+  rotate: false
+  xy: 1, 206
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 12
+spell_bluetop
+  rotate: false
+  xy: 101, 411
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 13
+spell_bluetop
+  rotate: false
+  xy: 201, 616
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 14
+spell_bluetop
+  rotate: false
+  xy: 1, 1
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 15
+spell_bluetop
+  rotate: false
+  xy: 101, 206
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 16
+spell_bluetop
+  rotate: false
+  xy: 201, 411
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 17
+spell_bluetop
+  rotate: false
+  xy: 301, 616
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 18
+spell_bluetop
+  rotate: false
+  xy: 101, 1
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 19
+spell_bluetop
+  rotate: false
+  xy: 301, 411
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 20
+spell_bluetop
+  rotate: false
+  xy: 401, 616
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 21
+spell_bluetop
+  rotate: false
+  xy: 201, 1
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: 22

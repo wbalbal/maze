@@ -1,0 +1,131 @@
+
+hist_scene_2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+a15 (2)
+  rotate: false
+  xy: 387, 571
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (3)
+  rotate: false
+  xy: 580, 761
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (4)
+  rotate: false
+  xy: 1, 1
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (5)
+  rotate: false
+  xy: 194, 191
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (6)
+  rotate: false
+  xy: 387, 381
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (7)
+  rotate: false
+  xy: 580, 571
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (8)
+  rotate: false
+  xy: 773, 761
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (9)
+  rotate: false
+  xy: 194, 1
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (10)
+  rotate: false
+  xy: 1, 761
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (11)
+  rotate: false
+  xy: 1, 571
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (12)
+  rotate: false
+  xy: 194, 761
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (13)
+  rotate: false
+  xy: 1, 381
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (14)
+  rotate: false
+  xy: 194, 571
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (15)
+  rotate: false
+  xy: 387, 761
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (16)
+  rotate: false
+  xy: 1, 191
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (17)
+  rotate: false
+  xy: 194, 381
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (18)
+  rotate: false
+  xy: 1, 191
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+a15 (19)
+  rotate: false
+  xy: 194, 381
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
