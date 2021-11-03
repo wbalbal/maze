@@ -321,7 +321,7 @@ public class level2 implements Screen{
 			batch.draw(blockq21, 70-2, 24-1, 4, 2); //13
 			batch.draw(blockq21, 64-2, 27-1, 4, 2); //14
 			batch.draw(blockq11, 70-1, 31.5f-1, 2, 2); //15
-			batch.draw(blockq21, 64-2, 27-1, 4, 2); //16 not encore placé
+			batch.draw(blockq21, 64-2, 27-1, 4, 2); //16 not encore pla
 			batch.draw(blockq11, 60-1, 33-1, 2, 2); //17
 			batch.draw(blockq11, 48-1, 33-1, 2, 2); //18
 			
